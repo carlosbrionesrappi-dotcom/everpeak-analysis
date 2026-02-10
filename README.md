@@ -53,4 +53,4 @@ Haz clic en el siguiente botón para ejecutar el código directamente en la nube
 ### Opción 2: Ejecución Local
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/carlosbrionesrappi-dotcom/nombre-del-repo.git](https://github.com/carlosbrionesrappi-dotcom/nombre-del-repo.git)
+   git clone [[https://github.com/carlosbrionesrappi-dotcom/nombre-del-repo.git](https://github.com/carlosbrionesrappi-dotcom/nombre-del-repo.git](https://github.com/carlosbrionesrappi-dotcom/sp6-telecom-analysis.git))
